@@ -1,0 +1,10 @@
+.container {
+  display: block;
+  max-width: 90ch;
+  margin: 0 auto;
+}
+
+.focus-highlight:focus {
+  border-color: transparent;
+  outline: 2px solid violet;
+}
